@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Vt7_oGi_EeyvwfLwSLqdlw" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_Vt7_oWi_EeyvwfLwSLqdlw" comment="" name="Rep_Cible" prompt="Rep_Cible?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_omi_EeyvwfLwSLqdlw" comment="" name="Rep_Log" prompt="Rep_Log?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_o2i_EeyvwfLwSLqdlw" comment="" name="Rep_Source" prompt="Rep_Source?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_pGi_EeyvwfLwSLqdlw" comment="" name="Rep_Rejet" prompt="Rep_Rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_pWi_EeyvwfLwSLqdlw" comment="" name="Rep_Projet" prompt="Rep_Projet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_pmi_EeyvwfLwSLqdlw" comment="" name="Rep_Temp" prompt="Rep_Temp?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_p2i_EeyvwfLwSLqdlw" comment="" name="Fichier_Contexte" prompt="Fichier_Contexte?" promptNeeded="false" type="id_File" value="C:\talend7\SMS_RDV_PMI\configuration/context.properties"/>
+    <contextParameter xmi:id="_Ru_E8P03Eey_2JhI_TZgsA" comment="" name="list_dest_rejet" prompt="list_dest_rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_tFPAMP0-Eey_2JhI_TZgsA" comment="" name="SMTP_Serveur" prompt="SMTP_Serveur?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_tFPAMf0-Eey_2JhI_TZgsA" comment="" name="SMTP_Port" prompt="SMTP_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_LQCqkP1CEey_2JhI_TZgsA" comment="" name="Mail_Sujet_rejet" prompt="Mail_Sujet_rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_GPV3MP1KEey_2JhI_TZgsA" comment="" name="Mail_Message_rejet" prompt="Mail_Message_rejet?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Vt7_qGi_EeyvwfLwSLqdlw" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_Vt7_qWi_EeyvwfLwSLqdlw" comment="" name="Rep_Cible" prompt="Rep_Cible?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_qmi_EeyvwfLwSLqdlw" comment="" name="Rep_Log" prompt="Rep_Log?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_q2i_EeyvwfLwSLqdlw" comment="" name="Rep_Source" prompt="Rep_Source?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_rGi_EeyvwfLwSLqdlw" comment="" name="Rep_Rejet" prompt="Rep_Rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_rWi_EeyvwfLwSLqdlw" comment="" name="Rep_Projet" prompt="Rep_Projet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_rmi_EeyvwfLwSLqdlw" comment="" name="Rep_Temp" prompt="Rep_Temp?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Vt7_r2i_EeyvwfLwSLqdlw" comment="" name="Fichier_Contexte" prompt="Fichier_Contexte?" promptNeeded="false" type="id_File" value="C:/talend7/SMS_RDV_PMI_TRAVAIL/config/context.properties"/>
+    <contextParameter xmi:id="_Ru_E8f03Eey_2JhI_TZgsA" comment="" name="list_dest_rejet" prompt="list_dest_rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_tFPAMv0-Eey_2JhI_TZgsA" comment="" name="SMTP_Serveur" prompt="SMTP_Serveur?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_tFPAM_0-Eey_2JhI_TZgsA" comment="" name="SMTP_Port" prompt="SMTP_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_LQCqkf1CEey_2JhI_TZgsA" comment="" name="Mail_Sujet_rejet" prompt="Mail_Sujet_rejet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_GPV3Mf1KEey_2JhI_TZgsA" comment="" name="Mail_Message_rejet" prompt="Mail_Message_rejet?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_wqEmkF9WEeyb9NeV5NjkvQ" label="SMS_RDV_PMI" description="" language="java" technicalLabel="SMS_RDV_PMI" local="true" author="_wqEmkV9WEeyb9NeV5NjkvQ" productVersion="Talend Open Studio for Data Integration-7.3.1.20200219_1130" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_wr2vQF9WEeyb9NeV5NjkvQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_wqEmkV9WEeyb9NeV5NjkvQ" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+  <TalendProperties:User xmi:id="_qvClcGjAEey0ObS2zmfyRA" login="yvan.gaillard@loire-atlantique.fr" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

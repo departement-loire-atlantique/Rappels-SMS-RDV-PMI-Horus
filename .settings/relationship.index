@@ -1,0 +1,119 @@
+[ {
+  "baseItem" : {
+    "id" : "_4jzyUGi_EeyjFbOKfybPZQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_XMJvwFM1EeqxZP6ojtigZg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ni82AGiWEeyvwfLwSLqdlw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_F6qbUGiXEeyvwfLwSLqdlw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_P9s_AGjCEey0ObS2zmfyRA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_XMJvwFM1EeqxZP6ojtigZg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_avG8oJ43Eeywa52Vm6nIhg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_vvwo4GlmEey807OsC7Axzw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_1fb30Gi-EeyvwfLwSLqdlw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_1fb30Gi-EeyvwfLwSLqdlw - Liste_RDV",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

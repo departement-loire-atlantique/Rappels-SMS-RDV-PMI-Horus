@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_ucvWMDTXEe2ZX7cjf2B6tQ" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_ucvWMTTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Server" prompt="HORUS_CNX_Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWMjTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Port" prompt="HORUS_CNX_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWMzTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Sid" prompt="HORUS_CNX_Sid?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWNDTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Login" prompt="HORUS_CNX_Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWNTTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Password" prompt="HORUS_CNX_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_ucvWNjTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Schema" prompt="HORUS_CNX_Schema?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWNzTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_AdditionalParams" prompt="HORUS_CNX_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_ucvWODTXEe2ZX7cjf2B6tQ" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_ucvWOTTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Server" prompt="HORUS_CNX_Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWOjTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Port" prompt="HORUS_CNX_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWOzTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Sid" prompt="HORUS_CNX_Sid?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWPDTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Login" prompt="HORUS_CNX_Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWPTTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Password" prompt="HORUS_CNX_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_ucvWPjTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_Schema" prompt="HORUS_CNX_Schema?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_ucvWPzTXEe2ZX7cjf2B6tQ" comment="" name="HORUS_CNX_AdditionalParams" prompt="HORUS_CNX_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

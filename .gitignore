@@ -1,0 +1,10 @@
+code/routines/system/
+temp/
+sqlPatterns/
+poms/
+migration.log
+build/
+data/
+log/
+rejets/
+

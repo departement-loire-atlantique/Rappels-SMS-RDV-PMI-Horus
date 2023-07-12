@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_vwGnIGlmEey807OsC7Axzw" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_vwGnIWlmEey807OsC7Axzw" comment="" name="SMS_Message" prompt="SMS_Message?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnImlmEey807OsC7Axzw" comment="" name="SMS_server_url" prompt="SMS_server_url?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnI2lmEey807OsC7Axzw" comment="" name="SMS_login" prompt="SMS_login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnJGlmEey807OsC7Axzw" comment="" name="SMS_password" prompt="SMS_password?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnJWlmEey807OsC7Axzw" comment="" name="SMS_custId" prompt="SMS_custId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_fWgKIDTHEe2ZX7cjf2B6tQ" comment="" name="SMS_debug" prompt="SMS_debug?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_vwGnJmlmEey807OsC7Axzw" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_vwGnJ2lmEey807OsC7Axzw" comment="" name="SMS_Message" prompt="SMS_Message?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnKGlmEey807OsC7Axzw" comment="" name="SMS_server_url" prompt="SMS_server_url?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnKWlmEey807OsC7Axzw" comment="" name="SMS_login" prompt="SMS_login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnKmlmEey807OsC7Axzw" comment="" name="SMS_password" prompt="SMS_password?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_vwGnK2lmEey807OsC7Axzw" comment="" name="SMS_custId" prompt="SMS_custId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_fWgKITTHEe2ZX7cjf2B6tQ" comment="" name="SMS_debug" prompt="SMS_debug?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

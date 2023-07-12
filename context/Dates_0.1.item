@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_P93-IGjCEey0ObS2zmfyRA" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_DnL6MNH9EeyIReuKSjKpTQ" comment="" name="SMS_Date_Rappel" prompt="SMS_Date_Rappel?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_VemnsNH9EeyIReuKSjKpTQ" comment="" name="Str_date_rappel" prompt="Str_date_rappel?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_P93-ImjCEey0ObS2zmfyRA" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_DnL6MdH9EeyIReuKSjKpTQ" comment="" name="SMS_Date_Rappel" prompt="SMS_Date_Rappel?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_VemnsdH9EeyIReuKSjKpTQ" comment="" name="Str_date_rappel" prompt="Str_date_rappel?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

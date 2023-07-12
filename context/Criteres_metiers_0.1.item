@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_avWNMJ43Eeywa52Vm6nIhg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_avWNMZ43Eeywa52Vm6nIhg" comment="" name="Lettre_Debut" prompt="Lettre_Debut?" promptNeeded="false" type="id_String" value="A"/>
+  <contextParameter xmi:id="_Dh8u8MVGEey2AZX5fIq0WA" comment="" name="Lettre_Fin" prompt="Lettre_Fin?" promptNeeded="false" type="id_String" value="G"/>
+  <contextParameter xmi:id="_S13xENHgEeyIReuKSjKpTQ" comment="" name="SMS_Types_rdv" prompt="SMS_Types_rdv?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_sy90INH_EeyIReuKSjKpTQ" comment="" name="SMS_Lieux" prompt="SMS_Lieux?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
